@@ -1,11 +1,15 @@
 # Criando um Ebook com ChatGPT & Ideogram
 
+![Matrix cover](./assets/matrix_cover.png)
+
 Projeto para testar o funcionamento de ferramentas de IA de diferentes mídias. Foram utilizadas diferentes técnicas de prompts para auxiliar na criação textual e visual de um e-book informativo de tecnologia.
 
 ### Ferramentas Utilizadas
 
 * [![ChatGPT][ChatGPT]][ChatGPT.com]
 * [![Ideogram][Ideogram]][Ideogram.com]
+* [![Powerpoint][Powerpoint]][Powerpoint.com]
+* [![Showcode][Showcode]][Showcode.com]
 
 ### Como foi utilizado
 
@@ -25,3 +29,7 @@ Projeto para testar o funcionamento de ferramentas de IA de diferentes mídias. 
 [ChatGPT]: https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
 [Ideogram.com]: https://ideogram.ai/t/explore
 [Ideogram]: https://img.shields.io/badge/Ideogram-000000?style=for-the-badge&logoColor=white
+[Powerpoint.com]: https://powerpoint.cloud.microsoft/
+[Powerpoint]: https://img.shields.io/badge/Powerpoint-D7451B?style=for-the-badge&logoColor=white
+[Showcode.com]: https://showcode.app/
+[Showcode]: https://img.shields.io/badge/Showcode-5A31B3?style=for-the-badge&logoColor=white
